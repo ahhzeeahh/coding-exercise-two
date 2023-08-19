@@ -10,3 +10,5 @@ Dim the background image when active.
 Figure out a way to output sound & the key that is pressed to the console.
 Create an if statement for an event listener that will play a sound when a key is pressed/ clicked.
 I will then watch the class to see how they approached the problem.
+
+First attempt at JavaScript is the index.js file but I'm going to change the source to the revised.js one. LOCATED inside of the images folder I've also added more images to condense the JavaScript
