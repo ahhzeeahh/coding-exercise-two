@@ -1,3 +1,5 @@
+//---first go at challenge---its kind of long but my thinking process is shown---
+
 let selectKey = document.querySelectorAll('button');
 
 selectKey[0].addEventListener('click', function() {
