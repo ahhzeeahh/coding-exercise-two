@@ -15,6 +15,9 @@ for (let i = 0; i < buttons; ++i) {
     })
 
 
+}
+
+
 
     //---------Keyboard part------------
 
@@ -27,10 +30,6 @@ for (let i = 0; i < buttons; ++i) {
       audio.play();
     })
 
-
-
-
-}
 
 
 
