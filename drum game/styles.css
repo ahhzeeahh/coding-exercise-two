@@ -25,7 +25,7 @@ button{
 }
 
   button:hover { 
-  transform: scale(1.1); 
+  transform: scale(1.01); 
   }
 
   .drum {
@@ -46,12 +46,11 @@ button{
 
 }
 .event{
-  width: 153px;
-    height: 153xpx;
+  
 }
 
 .event:hover:before{
-  background-color: rgba(254, 254, 254, 0.2) !important;
+  background-color: rgba(248, 244, 244, 0.264) !important;
   
 }
 
@@ -63,7 +62,7 @@ button{
   width: 100%;
   height: 100%;
   border-radius: 15px;
-  background-color: rgba(233, 248, 255, 0.5); /* Adjust opacity here */
+  background-color: rgba(179, 204, 215, 0.5); /* Adjust opacity here */
   pointer-events: none; /* Allow clicks to go through the overlay */
   z-index:-1 ; /* Place the overlay behind the content */
 }
@@ -106,19 +105,5 @@ button{
 
 .set {
   margin: 10% auto;
-}
-
-.game-over {
-  background-color: red;
-  opacity: 0.8;
-}
-
-.pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
-  opacity: 0.5;
-}
-
-.red {
-  color: red;
 }
 
